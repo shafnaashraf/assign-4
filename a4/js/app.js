@@ -1,0 +1,2 @@
+/*jsayhello.sayhello();
+ksaybye.saybye();*/
